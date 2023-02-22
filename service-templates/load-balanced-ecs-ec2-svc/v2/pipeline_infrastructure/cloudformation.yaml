@@ -3,7 +3,7 @@ Resources:
     Type: AWS::ECR::Repository
     DeletionPolicy: Retain
     Properties:
-      # This policy allows environment accounts to get the image from ECRRepo in the management account
+      # This policy allows environment accounts to get the image from ECRRepo in the management account in Demo
       RepositoryPolicyText:
         Version: "2012-10-17"
         Statement:
