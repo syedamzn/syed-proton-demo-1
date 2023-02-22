@@ -1,2 +1,5 @@
-fargate-env:1
-fargate-env:2
+fargate-env:1.0
+fargate-env:2.0
+fargate-env:3.0
+PublicVPC:1.0
+PublicVPC:2.0
