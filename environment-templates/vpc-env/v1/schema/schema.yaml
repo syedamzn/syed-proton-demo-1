@@ -5,7 +5,7 @@ schema:
   types:
     VPCEnvironmentInput:
       type: object
-      description: "Input properties for my environment"
+      description: "Input properties for my environment demo"
       properties:
         vpc_cidr:
           type: string
