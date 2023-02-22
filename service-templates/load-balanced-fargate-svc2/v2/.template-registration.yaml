@@ -2,4 +2,4 @@ compatible_environments:
   - fargate-env:1
   - fargate-env:2
   - fargate-env:3
-  - PublicVPC:1
+  - public-vpc:1
