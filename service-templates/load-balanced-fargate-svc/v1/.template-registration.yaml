@@ -1,0 +1,6 @@
+compatible_environments:
+  - proton-demo2:1
+  - proton-demo2:2
+  - proton-demo2:3
+  - another-env-template:1
+  - another-env-template:3
