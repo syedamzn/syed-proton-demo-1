@@ -1,0 +1,7 @@
+compatible_environments:
+  - proton-demo2:1
+  - proton-demo2:2
+  - proton-demo2:3
+  - fargate-env:1
+  - fargate-env:2
+  - fargate-env:3
