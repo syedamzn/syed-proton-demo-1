@@ -7,7 +7,7 @@ schema:
   types:
     LoadBalancedFargateServiceInput:
       type: object
-      description: "Input properties for a loadbalanced Fargate service"
+      description: "Input properties for a loadbalanced Fargate service demo"
       properties:
         port:
           title: "Port"
@@ -19,7 +19,7 @@ schema:
         desired_count:
           title: "Desired count"
           type: number
-          description: "The default number of Fargate tasks you want running"
+          description: "The default number of Fargate tasks you want running demo"
           default: 1
           minimum: 1
         task_size:

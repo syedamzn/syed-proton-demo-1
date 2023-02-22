@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: Deploy a service on AWS Fargate, hosted in a public or private subnet,
-             and accessible via a public load balancer.
+             and accessible via a public load balancer demo.
 Mappings:
   TaskSize:
     x-small:
