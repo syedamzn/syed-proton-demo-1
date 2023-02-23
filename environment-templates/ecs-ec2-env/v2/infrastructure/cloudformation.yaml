@@ -3,7 +3,7 @@ Description: A stack for deploying containerized applications on EC2 clusters.
              This stack runs containers in a public or private VPC subnet. 
 
 Mappings:
-  # The VPC and subnet configuration is passed in via the environment spec v2 major.
+  # The VPC and subnet configuration is passed in via the environment spec v2 major to minor.
   SubnetConfig:
     VPC:
       CIDR: '{{ environment.inputs.vpc_cidr}}'
